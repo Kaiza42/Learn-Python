@@ -43,12 +43,6 @@ est_membre = True  # Python comprend que c'est un bool
 
 ---
 
-## Les Opérateurs en Python
-
-Voici les principaux opérateurs que tu utiliseras souvent en Python, avec leur signification et des exemples.
-
----
-
 ## 🔢 Opérateurs arithmétiques
 
 | Opérateur | Nom              | Exemple   | Résultat |
